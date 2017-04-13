@@ -105,7 +105,7 @@ The current build released is 0.0.1
 
 * **Candy Tenorio Gonzales (CANDY@EMAIL)**
 * **Décio Lauro Soares (deciolauro@gmail.com)**
-* **Fatemeh Masaiyebzadeh (FATEMEH@EMAIL)**
+* **Fatemeh Mosaiyebzadeh (Mahshid.msy179@gmail.com)**
 
 See also the list of [contributors](https://github.com/deciolauro/parallelProgEP1/graphs/contributors) who participated in this project.
 
@@ -119,7 +119,7 @@ details.
 
 ## Copyright
 
-Copyright (C) <2017>  Candy Tenorio Gonzales; Décio Lauro Soares; Fatemeh Masaiyebzadeh
+Copyright (C) <2017>  Candy Tenorio Gonzales; Décio Lauro Soares; Fatemeh Mosaiyebzadeh
 
 ## Final explanations
 
